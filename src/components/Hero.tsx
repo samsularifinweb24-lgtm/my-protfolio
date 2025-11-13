@@ -44,7 +44,7 @@ const Hero = forwardRef<HTMLDivElement>((_, ref) => (
       </motion.p>
 
       <motion.a
-        href="/resume.pdf"
+        href="/resume-1.pdf"
         download
         className="inline-block bg-blue-600 text-white px-5 py-2 rounded-lg shadow 
         hover:bg-blue-500 transition text-sm font-semibold"
